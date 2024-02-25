@@ -1,4 +1,4 @@
-package kz.aitu.army_spring.models;
+package kz.aitu.army_spring_project.models;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -26,3 +26,4 @@ public class ID {
                 "id=" + id +
                 '}';
     }
+}
