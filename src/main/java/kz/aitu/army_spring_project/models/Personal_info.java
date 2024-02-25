@@ -1,4 +1,4 @@
-package kz.aitu.army_spring.models;
+package kz.aitu.army_spring_project.models;
 
 import jakarta.persistence.*;
 import lombok.Data;
